@@ -121,21 +121,4 @@ Smart-Irrigation-System-Using-Arduino
 * Water Management Systems
 * Precision Farming
 
----
-
-##  Project Images
-
-You can add images in the `Images` folder and display them here.
-
-Example:
-
-```markdown
-![Project Setup](Images/setup.jpg)
-```
-
----
-
-##  License
-
-This project is licensed under the MIT License.
 
