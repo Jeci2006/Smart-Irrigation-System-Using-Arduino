@@ -93,8 +93,6 @@ Smart-Irrigation-System-Using-Arduino
 │
 ├── Images/
 │
-├── Documentation/
-│
 ├── README.md
 └── LICENSE
 ```
